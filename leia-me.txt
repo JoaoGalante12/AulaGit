@@ -1,0 +1,11 @@
+git init = serve para iniciar o git no repositorio  
+
+git status = serve para ver o status do git 
+
+git add = serve para adicionar uma informação no git 
+ 
+git commit = serve para definir a versao do projeto 
+ 
+git remote add origin = serve para adicionar o repositorio do github
+
+git push = serve para basicamente fazer um upload do git para o github
